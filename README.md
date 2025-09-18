@@ -5,4 +5,4 @@ HOMEWORK1
 
 https://youtu.be/K7u-uZ-lc94?si=TVwsvxYdFzFtN4Zu
 
-[![Video](https://img.youtube.com/si/TVwsvxYdFzFtN4Zu/maxresdefault.jpg)](https://www.youtube.com/watch?si=TVwsvxYdFzFtN4Zu)
+[![Video](https://img.youtube.com/vi/TVwsvxYdFzFtN4Zu/maxresdefault.jpg)](https://www.youtube.com/watch?si=TVwsvxYdFzFtN4Zu)
