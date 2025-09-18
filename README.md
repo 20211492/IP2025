@@ -6,4 +6,3 @@ HOMEWORK1
 https://youtu.be/K7u-uZ-lc94?si=TVwsvxYdFzFtN4Zu
 
 [![Video](https://img.youtube.com/vi/K7u-uZ-lc94?si=TVwsvxYdFzFtN4Zu/maxresdefault.jpg)](https://www.youtube.com/watch?v=K7u-uZ-lc94?si=TVwsvxYdFzFtN4Zu)
-
