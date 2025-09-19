@@ -10,5 +10,6 @@ https://youtu.be/K7u-uZ-lc94?si=TVwsvxYdFzFtN4Zu
 HOMEWORK2
 
 
+
 HOMEWORK3
 <img src="./homework3.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
