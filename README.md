@@ -15,3 +15,10 @@ https://youtu.be/VQmUT6_cMJ8
 
 HOMEWORK3
 <img src="./homework3.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+
+HOMEWORK4
+
+HOMEWORK5
+https://youtu.be/0rzsQ86UpMU
+
+[![Video](https://img.youtube.com/vi/0rzsQ86UpMU/maxresdefault.jpg)](https://www.youtube.com/watch?v=0rzsQ86UpMU)
